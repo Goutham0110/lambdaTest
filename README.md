@@ -1,0 +1,4 @@
+# lambdaTest
+
+npm i 
+node .
