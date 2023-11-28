@@ -1,4 +1,4 @@
 # lambdaTest
 
-npm i 
-node .
+`npm i`
+`node .`
